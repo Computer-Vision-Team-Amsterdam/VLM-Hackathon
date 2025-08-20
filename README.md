@@ -1,1 +1,1 @@
-# VLM-Hackaton
+# VLM-Hackathon
