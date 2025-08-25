@@ -57,3 +57,8 @@ pre-commit autoupdate
 # Run pre-commit hooks using
 bash .git/hooks/pre-commit
 ```
+
+### 5. Run notebook with uv
+```
+uv run --with jupyter jupyter lab
+```
