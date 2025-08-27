@@ -1,7 +1,10 @@
 # Project specific additions
+data/*
 local_data/*
 *.jpg
 *.jpeg
+*.txt
+*.heic
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
