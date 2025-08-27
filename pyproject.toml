@@ -22,6 +22,7 @@ dependencies = [
     "numpy>=1.24.2",
     "openai",
     "opencv-python>=4.6.0",
+    "pyheif>=0.8.0",
 ]
 
 [project.optional-dependencies]
