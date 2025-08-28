@@ -23,6 +23,8 @@ dependencies = [
     "openai",
     "opencv-python>=4.6.0",
     "pyheif",
+    "reportlab",
+    "markdown",
 ]
 
 [project.optional-dependencies]
